@@ -665,7 +665,7 @@ footer {
     }
 
     .product {
-        height: 120vh;
+        height: 115vh;
     }
 
     .productDetails {
@@ -676,14 +676,14 @@ footer {
         align-items: center;
         text-align: center;
         position: relative;
-        top: 0;
+        top: 5%;
         text-align: center;
         margin: auto;
     }
 
     .productImg {
         position: relative;
-        top: 10%;
+        top: 12%;
         left: 12%;
         width: 80%;
     }
