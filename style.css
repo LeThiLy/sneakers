@@ -237,7 +237,7 @@ nav {
 }
 
 .product {
-    height: 105vh;
+    height: 110vh;
     background-color: whitesmoke;
     position: relative;
     clip-path: polygon(0 15%, 100% 0, 100% 100%, 0% 100%);
@@ -318,7 +318,7 @@ nav {
     position: relative;
     width: 43%;
     left: 24px;
-    top: 74px;
+    top: 85px;
 }
 
 .productDetails {
@@ -665,7 +665,7 @@ footer {
     }
 
     .product {
-        height: 115vh;
+        height: 114vh;
     }
 
     .productDetails {
@@ -676,7 +676,7 @@ footer {
         align-items: center;
         text-align: center;
         position: relative;
-        top: 5%;
+        top: 0;
         text-align: center;
         margin: auto;
     }
@@ -689,7 +689,8 @@ footer {
     }
 
     .productTitle {
-        margin-top: 90px;
+        margin-top: 120px;
+        margin-bottom: 20px;
     }
 
     .gallery {
